@@ -1,3 +1,6 @@
+// TODO: fizzbuzz 判定を入れる
+// TODO: Map にする
+
 const main = () => {
     return [
         '1', '2', 'Fizz', '4', 'Buzz',
