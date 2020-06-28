@@ -7,8 +7,8 @@ ES2017 & jest が使えるようにしてあります。
 ## インスコ
 
 ```sh
-% git clone https://github.com/Tommy1969/refactoring2nd.git
-% cd refactoring2nd
+% git clone https://github.com/Tommy1969/fizzbuzz_sfo2020.git
+% cd fizzbuzz_sfo2020
 % yarn install
 ```
 
